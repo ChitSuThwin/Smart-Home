@@ -1,6 +1,6 @@
 # Smart-Home
 ## General info
-create smarthome network design using packet tracer. In this design, IoT devices are controlled and monitored using smart devices such as smartphone,laptop,Tablet.
+Create smart-home network design using packet tracer. In this design, IoT devices are controlled and monitored using smart devices such as smartphone,laptop,Tablet.
 ## Buit with 
 * packet tracer
 ## License
